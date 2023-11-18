@@ -1,14 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+ you can run:
 
 ### `npm start`
 
-default login : name - admin
-                password - admin
+default login :
+name - admin
+password - admin
 
 admin can see the users registered
